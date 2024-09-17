@@ -5,7 +5,7 @@ This repository documents the changes to the test criteria used by the U.S. Army
 ## Background
 In October of 1869, General Order No. 72 was issued by command of General Sherman. This order directed that a pre-established Board of Officers led by Major General Schofield, and "acting in conjunction with a Board of Naval Officers", should examine the best small arms available with the goal of recommending a pattern rifle or rifles and caliber for adoption by both the Army and the Navy.
 
-The Board of Officers, composed of Major General Schofield, Brevet Brigadier General J. H. Potter (4th Inf), Brevet Major General Wesley Merritt (9th Cav), Major James Van Voast (18th Inf), and Brevet Colonel John Hamilton (1st Art), and joined briefly by Captain K. R. Breese, USN, assembled in St. Louis, MO, on March 2nd, 1870 to begin this work. They were complete by May 23, 1870. 
+The Board of Officers, composed of Major General Schofield, Brevet Brigadier General J. H. Potter (4th Inf), Brevet Major General Wesley Merritt (9th Cav), Major James Van Voast (18th Inf), and Brevet Colonel John Hamilton (1st Art), and joined briefly by Captain K. R. Breese, USN, assembled in St. Louis, MO, on March 2nd, 1870 to begin this work. The board continued experiments until June 10th, 1870, when they submitted their official report. 
 
 ## Objectives of This Project
 1) Clearly document the test criteria established by the Board.
