@@ -18,6 +18,14 @@
 
 1. Tests will be done using ammunition furnished by the inventors.
 2. Test will be performed by subjecting each arm to the same tests as far as practicable.
+3. Investigations are limited to the determination of the relative merits of the various systems of breech-loading small arms, without regard to questions of caliber, rifling, ammunition, &c.
+4. The main elements of excellence considered are:
+   1. Strength.
+   2. Durability.
+   3. Simplicity of the Breech Mechanims.
+   4. Ease, Certainty, and Rapidity of Firing.
+   5. Security Against Injury to Arms.
+   6. Security Against Accidents from Use in the Hands of Troops.
 
 # Program of Experiments
 1. *Simplicity of Construction* - Each arm to be dismounted [disassembled], examined, and the number of its pieces to be noted.
