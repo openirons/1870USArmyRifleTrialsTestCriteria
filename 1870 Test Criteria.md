@@ -50,4 +50,11 @@
 9. *Strength of the Breech Mechanism* -
    1. The arm to be fired once with a double charge of powder and lead.
    2. The arm to be fired once with a triple charge of powder and lead.
+  
+# Supplemental Field Trials
+1. 1000 muskets [rifles] and 300 carbines be prepared according to each of the top three systems recommended and issued for comparative trial in service.
+2. Companies of infantry and artillery to have an equal number of muskets of each system.
+3. Companies of cavalry an equal number of carbines of each system.
+4. Monthly reports on the comparative merits of which to be made regularly to this Bureau [Ordnance Office], by company commanders, during a period of not less than 12 months after their first introduction into service, upon forms to be furnished by this Bureau.
+5. The monthly reports will be laid before a board of officers to be appointed to select a breech-loading arm for adoption by the War Department for the military service.
 
